@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:A:/Code/CodingAnimation/project/media/videos/Animation/720p30/partial_movie_files/SecondExample/2016333726_1554531837_223132457.mp4'
+file 'file:A:/Code/CodingAnimation/project/media/videos/Animation/720p30/partial_movie_files/SecondExample/543634251_2774234111_1494547930.mp4'
+file 'file:A:/Code/CodingAnimation/project/media/videos/Animation/720p30/partial_movie_files/SecondExample/543634251_1141282389_345873368.mp4'
